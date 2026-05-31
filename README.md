@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**sothiss/sothiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Bio: Open Science & Computational Ethology
 I am an independent researcher bridging data engineering with an academic background in law. My work focuses on building the open-science, reproducible data infrastructure that applied canine ethology desperately requires to overcome its current replication crisis.
