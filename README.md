@@ -21,9 +21,10 @@ My development environments are structured to guarantee absolute isolation and e
 
 * **Core Applied Language Layers:** Python (Pandas, Pydantic v2 Strict Verification Modules).
 * **API Delivery & Environments:** FastAPI, Model Context Protocol (MCP), NoSQL Storage (Firebase/Cloud Firestore), Docker, Dev Containers, GitHub Actions automated CI/CD pipelines.
-* **Enterprise Sandbox & Compute Access:**
-  * **Google Developers Program:** Weaponizing advanced model routing layers inside Google AI Studio, forcing state-of-the-art architectures (`gemini-2.5-pro`) to operate with clamped temperature thresholds (`0.0`) and rigid JSON schemas.
-  * **NVIDIA Developer Ecosystem:** Strategically positioning our modular architectures for post-deadline multi-modal scaling, targeting local open-weights frameworks (`Gemma`) and GPU compute acceleration to process marklerless pose estimation alongside textual data.
+* **Academic Infrastructure & Grants-in-Kind:**
+  * **GitHub Education Program:** Weaponizing advanced automation layers and automated container testing via provisioned student developer licenses.
+  * **Google Developers Program:** Developing advanced semantic parsing tiers within Google AI Studio, forcing state-of-the-art architectures (`gemini-2.5-pro`) to operate with clamped temperature thresholds (`0.0`) and rigid JSON schemas.
+  * **NVIDIA Developer Ecosystem:** Strategically positioning our modular architectures for post-deadline multi-modal scaling, targeting local open-weights frameworks (`Gemma`) and GPU compute acceleration to process markerless pose estimation alongside textual data.
 
 ---
 
